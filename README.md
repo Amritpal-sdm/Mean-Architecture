@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Usage
 
-1. ```git clone https://www.sdeiscm.com/SDN/OS-LaravelAngular```
+1. ```https://github.com/Amritpal-sdm/Mean-Architecture```
 
 2. A MEAN Stack (MongoDB, Express, Angular, Node) application template. It uses:
 
